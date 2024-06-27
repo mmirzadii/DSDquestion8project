@@ -1,0 +1,11 @@
+{C:/sharif/digital design/projectplus/question1/testbench.v} {2 {vlog -work work -stats=none {C:\sharif\digital design\projectplus\question1\testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+** Warning: C:\sharif\digital design\projectplus\question1\testbench.v(233): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:\sharif\digital design\projectplus\question1\testbench.v(234): (vlog-2284) Empty $unit scope found.
+-- Compiling package testbench_v_unit
+
+Top level modules:
+	testbench
+
+} {} {}}
